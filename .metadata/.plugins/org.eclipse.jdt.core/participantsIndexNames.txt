@@ -1,3 +1,9 @@
 INDEX VERSION 1.131
+C:\java\teamproject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1985579192.index
+\BoardWeb\src\main\java
+C:\java\teamproject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2240648302.index
+\BoardWeb2\src\main\java
 C:\java\teamproject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3118581613.index
 \tripProject\src\main\java
+C:\java\teamproject\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4008603857.index
+\BoardWeb\src\main\java

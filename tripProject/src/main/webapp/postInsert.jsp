@@ -14,7 +14,7 @@
 		<table>
 			<tr>
 				<th> 제 목 </th>
-				<td><input type="text" name="name" size="80"></td>
+				<td><input type="text" name="title" size="80"></td>
 			</tr>
 			<tr>
 				<th> 사 진 </th>
@@ -24,7 +24,7 @@
 			</tr>
 			<tr>
 				<th> 내 용 </th>
-				<td><textarea rows="10" cols="80" name="description"></textarea></td>
+				<td><textarea rows="10" cols="80" name="content"></textarea></td>
 			</tr>
 		</table>
 		<br>
