@@ -3,4 +3,7 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="lombok.Data"/>
     <fullyQualifiedTypeName name="com.trip.board.BoardVO"/>
+    <fullyQualifiedTypeName name="org.springframework.web.multipart.MultipartFile"/>
+    <fullyQualifiedTypeName name="com.trip.app.board.BoardService"/>
+    <fullyQualifiedTypeName name="com.trip.app.board.BoardVO"/>
 </qualifiedTypeNameHistroy>
